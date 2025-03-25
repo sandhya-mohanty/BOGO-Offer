@@ -47,7 +47,7 @@ h1{
   transition: 0.3s;
   cursor: pointer;
 }
-.box:hover, box--selected{
+.box:hover, .box--selected{
   border-color: #ff6699;
   border-width: 4px;
   box-shadow: 0 0 12px rgba(255,102,153,0.5);
